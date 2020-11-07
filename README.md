@@ -1,4 +1,3 @@
-## Whatsapp-spam-bot-send-messages-on-loop
 
 ### Steps to send whatsapp messages on loop: -
 

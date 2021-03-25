@@ -19,6 +19,6 @@ var textbox = document.getElementsByClassName("_2_1wd copyable-text selectable-t
 for (let index = 0; index < counter; index++) {
   textbox.innerHTML = message;
   textbox.dispatchEvent(event);
-  document.getElementsByClassName("_2Ujuu")[0].click();
+  document.getElementsByClassName("_1E0Oz")[0].click();
 }
 ```

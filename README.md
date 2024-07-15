@@ -9,6 +9,7 @@
 1. paste the code in browser console.
 1. Hit enter then it will ask you to type your message and the number of times you want to send the message.
 1. Done. 👍
+1. nummer:
 
 
 # NOTE: there are two class names that are keep on changing, so if this code throws any error then just inspect the textbox of whatsapp and change the class name accoring to that in 5th line of code. and same for send button in 9th line.
